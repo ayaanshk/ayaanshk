@@ -22,6 +22,6 @@ Git, GitHub, VS Code, MongoDB
 Socket.io, SIMD (AVX2), Vitest, Vite, REST APIs, FastAPI
 
 Always welcomed to connect on my socials  
-Here, have a cookie ( ˘▽˘)っ🍪
+Here, have a cookie (¬‿¬)っ🍪
 
 
